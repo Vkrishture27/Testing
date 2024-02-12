@@ -1,7 +1,12 @@
 h1{
-    font-size: large;
+    font-size: 5cm;
     color: red;
 
+}
+p{
+    font-size: medium;
+    color: yellow;
+    
 }
 img{
     height: 200px;
